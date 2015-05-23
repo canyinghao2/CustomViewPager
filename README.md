@@ -33,4 +33,4 @@
 ![Example Image][1]
 ----------
 
-[1]: https://raw.github.com/canyinghao/CustomViewPager/master/record.gif
+[1]: https://raw.github.com/canyinghao2/CustomViewPager/master/record.gif
